@@ -4,6 +4,10 @@
 [Slides](2024.09.11/Вводная%20леция.%20Язык%20С%20и%20С%2B%2B.pdf)
 
 
+## 24.09.18 Типы данных, идентификаторы, операторы, операторы ветвления, циклы, функции
+[Slides](2024.09.18/Lecture%201.%20Types%20%26%20operators%20%26%20function.pdf)
+[Code](2024.09.18/code/main.cpp)
+
 # Лабораторные работы
 [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
