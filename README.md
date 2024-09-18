@@ -10,3 +10,5 @@
 [Типовые ошибки](https://github.com/is-itmo-c-23/code_rules)
 
 ## Осенний Семестр
+
+1. [LogAnalyzer](https://classroom.github.com/a/Xcf9cHNQ)
