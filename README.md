@@ -9,6 +9,13 @@
 
 [Code](2024.09.18/code/main.cpp)
 
+
+## 24.09.18 Массивы и указатели
+[Slides](2024.09.25/Lecture%202.%20Pointer%2C%20arrays.pdf)
+
+[Code](2024.09.25/code/main.cpp)
+
+
 # Лабораторные работы
 [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
