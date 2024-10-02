@@ -24,3 +24,4 @@
 ## Осенний Семестр
 
 1. [LogAnalyzer](https://classroom.github.com/a/Xcf9cHNQ)
+2. [ITMO Endian](https://classroom.github.com/a/JNsKdANK)
