@@ -16,6 +16,16 @@
 [Code](2024.09.25/code/main.cpp)
 
 
+## 24.10.02 Структуры и Объединения
+[Slides](2024.10.02/Lecture%203.%20Struct%20and%20union.pdf)
+
+
+## 24.10.02 Работа с памятью
+[Slides](2024.10.02/Lecture%204.%20Memory.pdf)
+
+[code](2024.10.02/code/main.cpp)
+
+
 # Лабораторные работы
 [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
