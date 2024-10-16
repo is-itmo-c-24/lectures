@@ -20,10 +20,15 @@
 [Slides](2024.10.02/Lecture%203.%20Struct%20and%20union.pdf)
 
 
-## 24.10.02 Работа с памятью
+## 24.10.02 - 24.10.09 Работа с памятью
 [Slides](2024.10.02/Lecture%204.%20Memory.pdf)
 
 [code](2024.10.02/code/main.cpp)
+
+## 24.10.16 Компиляция
+[Slides](2024.10.16/Lecture%205.%20Compiler%20and%20preprocessor.pdf)
+
+[code](2024.10.16/code/main.cpp)
 
 
 # Лабораторные работы
