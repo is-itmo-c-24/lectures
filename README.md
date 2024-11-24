@@ -40,13 +40,13 @@
 
 [Slides](2024.11.13/Lecture%208.%20Operator%20overloading.pdf)
 
-[code]((2024.11.13/code/main.cpp)
+[code](2024.11.13/code/main.cpp)
 
 
 ## 2024.11.20 ООП - II
 [Slides](2024.11.20/Lecture%209.%20ООП.%20Наследование.pdf)
 
-[code]((2024.11.20/code/main.cpp)
+[code](2024.11.20/code/main.cpp)
 
 
 
