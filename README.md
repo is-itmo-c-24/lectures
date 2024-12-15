@@ -49,6 +49,16 @@
 [code](2024.11.20/code/main.cpp)
 
 
+## 2024.11.27 ООП - III
+[Slides](2024.11.27/Lecture%2010%20%20ООП.%20Полиморфизм..pdf)
+
+
+## 2024.12.04 - 2024.12.11 Template - I
+[Slides](2024.12.04/Lecture%2011.%20Template.%20class%20and%20function%20-%20I.pdf)
+
+[code](2024.12.04/code/main.cpp)
+
+
 
 # Лабораторные работы
 [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
