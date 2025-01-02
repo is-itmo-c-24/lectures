@@ -30,7 +30,7 @@
 
 [code](2024.10.16/code/main.cpp)
 
-## 2024.10.23 Компиляция
+## 2024.10.23 Reference, initialization, function, namespace
 [Slides](2024.10.23/Lecture%206.%20Reference%2C%20initialization%2C%20function%2C%20namespace.pdf)
 
 ## 2024.10.30 - 2024.11.06 ООП - I
