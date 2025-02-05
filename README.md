@@ -61,7 +61,15 @@
 
 [code](2024.12.04/code/main.cpp)
 
+## 2024.12.18 Template - II
+[Slides](2024.12.18/Lecture%2012.%20%20Template%20-%20II.pdf)
 
+[code](2024.12.18/code/main.cpp)
+
+## 2025.02.05 Smart Pointers
+[Slides](2025.02.05/Lecture%2013.%20%20Smart%20pointers.pdf)
+
+[code](2025.02.05/code/main.cpp)
 
 # Лабораторные работы
 [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
