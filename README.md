@@ -84,4 +84,8 @@
 4. [ArgParser](https://classroom.github.com/a/2LDzHi4o)
 5. [Battleship](https://classroom.github.com/a/aVGkSu2D)
 
+## Весенний Семест
+
+6. [WayHome](https://classroom.github.com/a/HsJ6qrbu)
+
 [Дифзачет](Exam%20-%20I.md)
