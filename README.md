@@ -84,7 +84,7 @@
 4. [ArgParser](https://classroom.github.com/a/2LDzHi4o)
 5. [Battleship](https://classroom.github.com/a/aVGkSu2D)
 
-## Весенний Семест
+## Весенний Семестр
 
 6. [WayHome](https://classroom.github.com/a/HsJ6qrbu)
 
