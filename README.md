@@ -71,6 +71,11 @@
 
 [code](2025.02.05/code/main.cpp)
 
+## 2025.02.12 STL - 1
+[Slides](2025.02.12/Lecture%2014.%20STL.%20Контейнеры%2C%20итераторы%2C%20алгоритмы.pdf)
+
+[code](2025.02.12/code/main.cpp)
+
 # Лабораторные работы
 [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
