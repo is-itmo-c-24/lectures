@@ -92,5 +92,6 @@
 ## Весенний Семестр
 
 6. [WayHome](https://classroom.github.com/a/HsJ6qrbu)
+7. [Unrolled List](https://classroom.github.com/a/F94lbM9T)
 
 [Дифзачет](Exam%20-%20I.md)
