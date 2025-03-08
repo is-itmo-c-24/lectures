@@ -76,6 +76,16 @@
 
 [code](2025.02.12/code/main.cpp)
 
+## 2025.02.19 - 26 STL - 2
+[Slides](2025.02.19/Lecture%2015.%20STL.%20Контейнеры%2C%20итераторы%2C%20алгоритмы%20-%20II.pdf)
+
+[code](2025.02.19/code/main.cpp)
+
+## 2025.03.05 Error Handling
+[Slides](2025.03.05/Lecture%2016.%20Error%20Handling.pdf)
+
+[code](2025.03.05/code/main.cpp)
+
 # Лабораторные работы
 [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
