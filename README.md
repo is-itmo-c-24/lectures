@@ -103,5 +103,6 @@
 
 6. [WayHome](https://classroom.github.com/a/HsJ6qrbu)
 7. [Unrolled List](https://classroom.github.com/a/F94lbM9T)
+8. [Ranges](https://classroom.github.com/a/AMw6ugCA)
 
 [Дифзачет](Exam%20-%20I.md)
