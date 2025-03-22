@@ -86,6 +86,14 @@
 
 [code](2025.03.05/code/main.cpp)
 
+
+## 2025.03.12 - 2025.03.19 Lambda
+[Slides](2025.03.12/Lecture%2017.%20Lambda.pdf)
+
+[code](2025.03.12/code/main.cpp)
+
+
+
 # Лабораторные работы
 [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
