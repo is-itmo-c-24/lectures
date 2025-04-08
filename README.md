@@ -93,6 +93,12 @@
 [code](2025.03.12/code/main.cpp)
 
 
+## 2025.03.26 - 2025.04.02 Cast & CRTP
+[Slides](2025.03.26/Lecture%2018.%20%20Casts%2C%20CRTP%20.pdf)
+
+[code](2025.03.26/code/main.cpp)
+
+
 
 # Лабораторные работы
 [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
