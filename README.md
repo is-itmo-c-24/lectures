@@ -98,6 +98,12 @@
 
 [code](2025.03.26/code/main.cpp)
 
+## 2025.04.09 Move
+[Slides](2025.04.09/Lecture%2019.%20%20Value%20categories%20%26%20Move%20semantics.pdf)
+
+[code](2025.04.09/code/main.cpp)
+
+
 
 
 # Лабораторные работы
