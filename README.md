@@ -125,5 +125,6 @@
 7. [Unrolled List](https://classroom.github.com/a/F94lbM9T)
 8. [Ranges](https://classroom.github.com/a/AMw6ugCA)
 9. [TaskScheduler](https://classroom.github.com/a/riVjYclw)
+10. [ITMOScript](https://classroom.github.com/a/X8qUThnE)
 
 [Дифзачет](Exam%20-%20I.md)
