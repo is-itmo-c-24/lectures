@@ -104,6 +104,18 @@
 [code](2025.04.09/code/main.cpp)
 
 
+## 2025.04.16 - 2025.04.23 Variadic templates
+[Slides](2025.04.16/Lecture%2020.%20%20Variadic%20Templates.pdf)
+
+[code](2025.04.16/code/main.cpp)
+
+
+## 2025.04.30 - 2025.05.09 Metaprogramming
+[Slides](2025.04.30/Lecture%2021.%20%20Template%20Metaprogramming.pdf)
+
+[code](2025.04.30/code/main.cpp)
+
+
 
 
 # Лабораторные работы
