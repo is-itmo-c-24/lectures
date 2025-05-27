@@ -116,6 +116,12 @@
 [code](2025.04.30/code/main.cpp)
 
 
+## 2025.05.14 - 2025.05.21 Concurrency
+[Slides](2025.05.14/Lecture%2022.%20Concurrency.pdf)
+
+[code](2025.05.14/code/main.cpp)
+
+
 
 
 # Лабораторные работы
@@ -131,6 +137,9 @@
 4. [ArgParser](https://classroom.github.com/a/2LDzHi4o)
 5. [Battleship](https://classroom.github.com/a/aVGkSu2D)
 
+
+[Дифзачет](Exam%20-%20I.md)
+
 ## Весенний Семестр
 
 6. [WayHome](https://classroom.github.com/a/HsJ6qrbu)
@@ -139,4 +148,5 @@
 9. [TaskScheduler](https://classroom.github.com/a/riVjYclw)
 10. [ITMOScript](https://classroom.github.com/a/JwSdNObp)
 
-[Дифзачет](Exam%20-%20I.md)
+
+[Дифзачет](Exam%20-%20II.md)
